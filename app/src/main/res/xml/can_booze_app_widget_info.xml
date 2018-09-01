@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:initialKeyguardLayout="@layout/can_booze_app_widget"
+    android:initialLayout="@layout/can_booze_app_widget"
+    android:minHeight="40dp"
+    android:minWidth="40dp"
+    android:previewImage="@drawable/ic_logo"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen|keyguard"></appwidget-provider>
+    <!---android:configure="com.ducrou.jon.canbooze.CanBoozeSettingsActivity"-->
